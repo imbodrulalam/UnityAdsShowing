@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:unity-ads:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unity-ads/build/.transforms/567bd390231b1d2601449044157afa1c/unity-ads/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/unity-ads/build/.transforms/567bd390231b1d2601449044157afa1c/unity-ads/res" />
+      <root url="file://$PROJECT_DIR$/unity-ads/build/.transforms/567bd390231b1d2601449044157afa1c/unity-ads/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
